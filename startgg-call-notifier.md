@@ -24,4 +24,4 @@ https://www.start.gg にだけ通信します。自分の試合の状態とチ�
 
 ## お問い合わせ
 
-このリポジトリの Issues からお願いします: https://github.com/mah666hhh/privacy-policies/issues
+お問い合わせフォームからお願いします: https://www.malanka.org/contact
